@@ -1,0 +1,1125 @@
+﻿#Language=தமிழ்
+#TranslatorName=தமிழ்நேரம்
+#Contact=TamilNeram247@gmail.com
+#LastUpdated=2026-Aug-22
+#Rel= 2.40.10 
+1 DSynchronize - Old Ini file loaded: some features will not be available
+2 டிஒத்திசை - பழைய INI கோப்பு ஏற்றப்பட்டது: சில பண்புகள் கிடைக்காது
+1 SKIP
+2 தவிர்
+1 FAIL
+2 தோல்வி
+1 OK
+2 சரி
+1 DEL DIR
+2 அடைவு நீக்க
+1 MK DIR
+2 அடைவு செய்ய
+1 REN DIR
+2 மறுபெயரிடு
+1 DEL FILE
+2 கோப்பு நீக்க
+1 NEW FILE
+2 புதிய கோப்பு
+1 REN FILE
+2 மறுபெயரிடு
+1 MOD FILE
+2 மாற்று
+1 SET ATTR
+2 பண்பு அமை
+1 SET ACL
+2 அகப அமை
+1 Adding
+2 சேர்த்தல்
+1 Deleting
+2 நீக்குதல்
+1 Replacing
+2 மாற்றுதல்
+1 Errors
+2 பிழைகள்
+1 Sync (stage 1/2):
+2 ஒத்திசைவு (நிலை  1/2):
+1 Sync (stage 2/2):
+2 ஒத்திசைவு (நிலை  2/2):
+1 C:\SourcePath
+2 இ:\மூல கோப்புறை
+1 F:\DestinationPath
+2 ஐ:\இலக்கு கோப்புறை
+1 Timings
+2 நேரங்கள்
+1 Files
+2 கோப்புகள்
+1 Deleted
+2 நீக்கப்பட்டது
+1 Added
+2 சேர்க்கப்பட்டது
+1 Replaced
+2 மாற்றபட்டது
+1 Details
+2  விவரம்
+1 Clear list
+2 தெளிவான பட்டியல்
+1 Find file
+2 கோப்பை கண்டுபிடி
+1 Explore folder
+2 கோப்புறையை ஆராயுங்கள்
+1 General
+2 General
+1 Execute at the end...
+2 இறுதியில் இயக்கு...
+1 Execute at the end
+2 இறுதியில் இயக்கு
+1 Skip empty folders
+2 வெற்று கோப்புறைகளை தவிர்
+1 Do not sync folders if they are empty
+2 காலியாக இருந்தால், கோப்புறைகளை ஒத்திசைக்க வேண்டாம்
+1 Exit/Shutdown at the end
+2 இறுதியில் பணிநிறுத்தம்/வெளியேறும்
+1 1st click: Exit at the end of sync*2nd click: Shutdown the system at the end of sync (red icon)
+2 1st click: ஒத்திசைவின் முடிவில் வெளியேறு * 2nd click: ஒத்திசைவு முடிவில் கணினியை நிறுத்து (சிவப்பு ஐகான்)
+1 Exit or Shutdown PC at the end
+2 இறுதியில் வெளியேறும்/பணிநிறுத்தம்
+1 Write log on disk
+2 வட்டில் பதிவு எழுதவும்
+1 Save log file "DSynchronize.log" on disk
+2 வட்டில் உள்ள "டிஒத்திசை.லாக்" என்ற பதிவு கோப்பை சேமி 
+1 Show Jobs at start
+2 ஆரம்பத்தில் பணிகளைக் காண்பி
+1 Show job's window at start
+2 தொடக்கத்தில் பணி சாளரத்தை காட்டு
+1 Ignore path errors
+2 பாதை பிழைகள் புறக்கணி
+1 If a path (source or destination) does not exists, skips it without any error message, ignore folder security check too
+2 ஒரு பாதை (மூல அல்லது இலக்கு) இல்லையென்றால், எந்த பிழை செய்தியும் இல்லாமல் அதைத் தட்டவும், கோப்புறை பாதுகாப்பு சரிபார் கூட புறக்கணிக்கப்படும்
+1 Verify copy
+2 நகல் சரிபார் 
+1 Verify byte to byte
+2 பைட் பைட்டாக சரிபார்
+1 Byte to byte sync
+2 பைட் பைட்டாக ஒத்திசை
+1 Realtime sync...
+2 நிகழ்நேர ஒத்திசை  ...
+1 Transactional sync...
+2 பரிமாற்ற ஒத்திசை  ...
+1 Timer sync
+2 நேர ஒத்திசை  ...
+1 Remote monitor...
+2 தொலை கண்காணிப்பு  ...
+1 Compare files "byte to byte". This option is not designed for normal sync operations, you should use it only in particular situations because it will slow down very much the sync.
+2 "பைட் பைட்" கோப்புகளை ஒப்பிடுக. சாதாரண ஒத்திசை செயல்பாட்டிற்கு இந்த விருப்பம் வடிவமைக்கப்படவில்லை, ஒத்திசைவை மெதுவாக்கும் என்பதால், குறிப்பிட்ட சூழ்நிலைகளில் மட்டுமே இதைப் பயன்படுத்த வேண்டும்.
+1 Use fast algorithm
+2 வேகமான வழிமுறை பயன்படுத்தவும்
+1 Use a faster sync algorithm but that don't allows to use all options
+2 வேகமான ஒத்திசைவு வழிமுறையைப் பயன்படுத்துங்கள், ஆனால் அது அனைத்து விருப்பங்களையும் பயன்படுத்த அனுமதிக்காது
+1 Log only errors
+2 பிழைகளை மட்டுமே பதிவு செய்க
+1 Do not show the complete list but show only errors
+2 முழுமையான பட்டியலை காட்டாதே, ஆனால் பிழைகள் மட்டுமே காட்டப்பட வேண்டும்
+1 Save settings on exit
+2 வெளியேறும் போது சேமி
+1 Save settings as...
+2 அமைப்புகளை என சேமி      ...
+1 Right Click to save settings only this time*Middle-Click to save settings now
+2 இந்த முறைமைகளை மட்டுமே காப்பாற்ற வலது கிளிக் செய்யவும் * இப்போது அமைப்புகளைச் சேமிப்பதற்கு மைய-கிளிக் செய்யவும்
+1 Suffix destination with date
+2 பின்னணி தேதி கொண்ட இலக்கு
+1 Adds to the name of the destination folder current date and time (so "C:\Destination" becomes "C:\Destination 2004-12-10 22.30")
+2 இலக்கு கோப்புறையின் பெயருடன் தற்போதைய தேதி மற்றும் நேரத்தைச் சேர் (எடுத்துக்காட்டு "சி: \ இலக்கு" "சி: \ இலக்கு 2016-08-06 18.30")
+1 Create folder if not exists
+2 கோப்புறை இல்லையெனில் உருவாக்கு
+1 If destination path does not exists it creates a new one
+2 இலக்கு பாதை இல்லையென்றால் அது ஒரு புதிய கோப்புறை ஒன்றை உருவாக்குகிறது
+1 Copy only newer files
+2 புதிய கோப்புகளை மட்டும் நகலெடு
+1 Update files into destination folder only if source files are more recent
+2 மூல கோப்புறையிலுள்ள புதிய கோப்புகளை மட்டுமே  இலக்கு கோப்புறையை புதுப்பி
+1 Sync file/folder timings too
+2 கோப்பு / அடைவு நேரம் கூட ஒத்திசைவு .
+1 Sync creation and last modify time too
+2 உருவாக்கம் மற்றும் கடைசியாக மாற்றியமைக்கும் நேரம் ஒத்திசைவு 
+1 Eject USB key at the end
+2 இறுதியில் USB விசையை வெளியேற்று
+1 Send log by Email...
+2 மின்னஞ்சல் மூலம் பதிவு அனுப்பவும்
+1 Move files to destination
+2 கோப்புகளை இலக்குக்கு நகர்த்து
+1 Move files from Source to Destination (and NOT delete any file on Destination)
+2 மூலத்திலிருந்து இலக்குக்கு கோப்புகளை நகர்த்து (இலக்கு எந்த கோப்பையும் நீக்க வேண்டாம்)
+1 Preview sync
+2 ஒத்திசைவு முன்னோட்டம்
+1 Does not writes nor changes anything on disk
+2 வட்டில் எதையும் எழுதவோ அல்லது மாற்றவோ கூடாது
+1 Hidden Container
+2 மறைக்கப்பட்ட கொள்கலன்
+1 DSynchronize
+2 டிஒத்திசை         ...
+1 DSynchronize - Job 01
+2 டிஒத்திசை - பணி 01       ...
+1 Timer
+2 Timer
+1 Pre calculates ETA
+2 எ.ப.நேஐ கணக்கிடுகிறது
+1 Before to start sync, compute number of files to sync to show ETA (estimated time of arrival) and progress bar
+2 ஒத்திசைவு தொடங்க முன், கோப்புகளை கம்ப்யூட் எண் எ.ப.நே நிகழ்ச்சி (வருகையை மதிப்பிடப்பட்டுள்ளது நேரம்) மற்றும் முன்னேற்றம் பட்டியில் ஒத்திசைக்க
+1 Pre calculates size
+2 அளவை முன் கணக்கிடுகிறது
+1 Remote controller
+2 தொலை கட்டுப்படுத்தி
+1 Report status to Remote Controller
+2 தொலை கட்டுப்படுத்திக்கு நிலை அறிக்கை
+1 Cyclic sync
+2 சுழற்சி ஒத்திசைவு
+1 Cyclically synch all the paths, without ever stopping
+2 எப்போதும் நிறுத்தாமல் அனைத்து பாதைகளையும் சுழற்சி முறையில் ஒத்திசைத்தல்
+1 Start at drive plug-in
+2 இயக்கி செருகுநிரலில் தொடங்கு
+1 Start sync when the user plugs-in selected drive
+2 பயனர் தேர்ந்தெடுக்கப்பட்ட இயக்கி செருகும்போது ஒத்திசைவைத் தொடங்குக 
+1 Bidirectional sync
+2 இருதிசை ஒத்திசைவு
+1 Syncronize folders using more recent files from both, you will obtain two equal folders with the more recent files of both
+2 இருவர்களிடமிருந்தும் மிக சமீபத்திய கோப்புகளைப் பயன்படுத்தி கோப்புறைகளை ஒத்திசைக்கலாம், இரண்டு கோப்புறைகளின் சமன்பாடு இரண்டுமே மிக சமீபத்திய கோப்புகளைக் கொண்டிருக்கும்
+1 DSynchronize - Bidirectional Sync
+2 டிஒத்திசை - இருதிசை ஒத்திசைவு       ...
+1 If Realtime is not enabled, Bidirectional sync can't get file deletions, because DSynchronize don't knows if a single file was added on source path or was deleted from destination path (or viceversa), so it assumes that all files was added everywhere.
+
+This can give unattended results, do you want enable anyway Bidirectional Sync?
+2  நிகழ்நேர இயக்கப்படவில்லை என்றால், இருவழித் ஒத்திசைவு கோப்பு நீக்கங்கள் அது எல்லா கோப்புகளும் எனவும் கருதுகிறது எனவே, டிஒத்திசை ஒரு ஒற்றை கோப்பு மூல பாதையில் சேர்க்கப்பட்டது அல்லது இலக்கு பாதை (அல்லது மறுதலையாக) நீக்கப்பட்டுவிட்டது என்றால் தெரியும் இல்லை ஏனெனில் பெற முடியாது எல்லா இடங்களிலும்.
+
+இந்த அணுகாத முடிவுகளை கொடுக்க முடியும், நீங்கள் எப்படியும் இருதிசை ஒத்திசைவு செயல்படுத்த வேண்டும்?
+1 Realtime sync
+2 நிகழ்நேர ஒத்திசைவு
+1 Real-time synchronization
+2 நிகழ்-நேர ஒத்திசைவு
+1 Timer sync...
+2 நேர ஒத்திசைவு...
+1 Autostart
+2 தானியங்கு தொடக்கம்
+1 Execute DSynchronize at system startup
+2 கணினி துவக்கத்தில் டிஒத்திசைவை இயக்கு
+1 Transactional sync
+2 பரிவர்த்தனை ஒத்திசைவு
+1 Syncronize folders using Journaling feature of NTFS
+2 NTFSஇன் பத்திரிகை அம்சத்தைப் பயன்படுத்தி கோப்புறைகளை ஒத்திசைக்கலாம்
+1 Transactional sync with automatic activation.
+2 தானியங்கி செயலாக்கத்துடன் பரிவர்த்தனை ஒத்திசைவு.
+1 Scheduling every:
+2 திட்டமிடும் ஒவ்வொரு:
+1 minutes.
+2 நிமிடங்கள்.
+1 Scheduled within:
+2 திட்டமிடப்பட்டுள்ளது:
+1 Syncronize folders using Journaling feature of NTFS.
+2 NTFSஇன் பத்திரிகை அம்சத்தைப் பயன்படுத்தி கோப்புறைகளை ஒத்திசைக்கலாம்.
+1 Do not delete any file
+2 எந்த கோப்பையும் நீக்க வேண்டாம்
+1 Does not delete any file
+2 எந்த கோப்பையும் நீக்காது
+1 Ask before deleting files
+2 கோப்புகளை நீக்குவதற்கு முன் கேள்     ...
+1 Ask before adding files
+2 கோப்புகளை சேர்ப்பதற்கு முன் கேள்     ...
+1 Do not add any file
+2 எந்த கோப்பையும் சேர்க்க வேண்டாம்
+1 Does not add any new file
+2 புதிய கோப்பை சேர்க்க வேண்டாம்
+1 Ask before replace files
+2 கோப்புகளை மாற்றும் முன் கேள்     ...
+1 Do not replace any file
+2 எந்த கோப்பையும் மாற்ற வேண்டாம் 
+1 Does not replace any file
+2 எந்த கோப்பையும் மாற்றாது
+1 Reset list if too full
+2 மிக முழுமையான பட்டியலை மீட்டமை
+1 If they are too many items (over 1000), reset list
+2 பல பொருட்கள் (1000 க்கு மேல்) இருந்தால், பட்டியலை மீட்டமை
+1 You have to start DSynchronize as Administrator to use this option.
+2 இந்த விருப்பத்தை பயன்படுத்த நீங்கள் நிர்வாகியாக டிஒத்திசை தொடங்க வேண்டும்.
+1 JOBS
+2 பணிகள்
+1 JOBS LIST
+2 பணிகள் பட்டியல்
+1 Select and manage Jobs
+2 பணிகளை தேர்ந்தெடு மற்றும் நிர்வகி
+1 Destinations
+2 Destinations
+1 <A>About</A>
+2 <A>பற்றி</A>
+1 FILTER
+2 வடிகட்டி
+1 Set filter to include/exclude files or folders from sync
+2 ஒத்திசைவிலிருந்து கோப்புகளை அல்லது கோப்புறைகளை சேர்க்க / நீக்க, வடிகட்டி அமை 
+1 Commands
+2 Commands
+1 AS
+2 ஆக
+1 SERVICE
+2 சேவை
+1 RUNNING
+2 இயக்குகிறீர்
+1 &Synchronize
+2 ஒத்திசை
+1 &Pause
+2 இடைநிறுத்தம்
+1 &Stop
+2 நிறுத்து
+1 Debug
+2 பிழைதிருத்து
+1 Sources
+2 Sources
+1 Special
+2 Special
+1 Antifragmentation
+2 எதிர்ப்புபிரிவு
+1 Do not replaces files, they first will be deleted from destination and then added again to it
+2 கோப்புகளை மாற்றாதீர்கள், அவை இலக்கு இலிருந்து நீக்கப்படும், பின்னர் அதற்கு மீண்டும் சேர்க்கப்படும்
+1 Case Sensitive
+2 வழக்கு உணர்வு
+1 Enable case sensitive sync, so eg "File.txt" and "file.txt" are registred as differents
+2 case sensitive sync ஐ செயல்படுத்தவும், eg "File.txt" மற்றும் "file.txt" differents ஆக பதிவு செய்யப்பட்டுள்ளன
+1 Copy ACL
+2 ACLஐ நகலெடு
+1 Copy ACL (Access Control List) on NTFS
+2 NTFSஇல் ACL (அணுகல் கட்டுப்பாட்டு பட்டியல்) நகல்
+1 Copy hard links
+2 கடின இணைப்புகள் நகலெடு
+1 If it's possible try to recreate hard links too (all hard links of a file must be on same partition)
+2 கடினமான இணைப்புகளை மீண்டும் உருவாக்க முயற்சித்தால் (ஒரு கோப்பின் அனைத்து கடின இணைப்புகள் அதே பிரிவில் இருக்க வேண்டும்)
+1 Verify symbolic links
+2 குறியீட்டு இணைப்புகள் சரிபார்
+1 Verify symbolic links validity before copying, if itsn't valid on destination path (e.g. relative links), copies the target file.
+2 இலக்கு கோட்டில் (எ.கா. தொடர்பு இணைப்புகள்) செல்லுபடியாகாததாலும், இலக்கு கோப்பினை நகலெடுக்கும்போது குறியீட்டு இணைப்புகளுக்கு செல்லுபடியாக்கலை சரிபார்.
+1 Copy symbolic links
+2 குறியீட்டு இணைப்புகள் நகலெடு
+1 Copy symbolic links as is
+2 குறியீட்டு இணைப்புகள் இதுபோன்ற நகலெடுக்க
+1 Check free space
+2 இலவச இடத்தைச் சரிபார்
+1 Check free space before start file copy
+2 கோப்பின் நகல் தொடங்குவதற்கு முன் இலவச இடத்தைச் சரிபார்
+1 Use Recycle Bin
+2 சுழற்சி பை பயன்படுத்துக
+1 Move deleted files to Recycle Bin
+2 நீக்கப்பட்ட கோப்புகளை மறுசுழற்சி பைக்கு நகர்த்தவும்
+1 Move deleted files to
+2 நீக்கப்பட்ட கோப்புகளை நகர்த்தவும்
+1 Adjust path drive
+2 பாதை இயக்கி சரிசெய்தல்
+1 If drive letter changes, adjust paths accordingly (please, select "Save on exit" option to allow saving volume serials)
+2 பாதை இயக்கி மாற்றினால், அதன்படி பாதைகள் சரிசெய்யவும் (தயவுசெய்து, தொகுதி தொகுதிகளை சேமிப்பதற்கு அனுமதிக்க "வெளியேறும்போது சேமி" என்ற விருப்பத்தைத் தேர்ந்தெடு)
+1 Lock Interface
+2 பூட்டு இடைமுகம்
+1 Lock all settings to prevent unwanted changes
+2 தேவையற்ற மாற்றங்களைத் தடுக்க அனைத்து அமைப்புகளையும் பூட்டவும்
+1 Email Log
+2 மின்னஞ்சல் பதிவு
+1 Preview
+2 முன்னோட்டம்
+1 &File
+2 கோப்பு          ...
+1 Change Ini File...
+2 Ini கோப்பு மாற்று...
+1 Save Settings Now
+2 இப்போது அமைப்புகளைச் சேமி         ...
+1 Exit without Save Settings	ALT+F5
+2 அமைப்புகள் சேமி இல்லாமல் வெளியேறு             ...
+1 &Exit	ALT+F4
+2 வெளியேறு          ...
+1 &Options
+2 விருப்பங்கள்         ...  
+1 Revert all options to default
+2 அனைத்து விருப்பங்களையும் இயல்புநிலைக்கு அமை                 ...
+1 Remember window size
+2 சாளரத்தின் அளவு நினைவில் கொள்              ...
+1 Show summary after sync
+2 ஒத்திசைவுக்குப் பிறகு சுருக்கத்தை காண்பி              ...
+1 Close button minimizes window
+2 மூடு பொத்தானை சாளரத்தை குறைக்கிறது              ...
+1 Hidden mode
+2 மறைக்கப்பட்ட பயன்முறை              ...
+1 Maintain old versions
+2 பழைய பதிப்புகளை பராமரி              ...
+1 No old versions
+2 பழைய பதிப்புகள் இல்லை                 ...
+1 1 old version
+2 1 பழைய பதிப்புகள்                 ...
+1 2 old versions
+2 2 பழைய பதிப்புகள்                 ...
+1 3 old versions
+2 3 பழைய பதிப்புகள்                 ...
+1 4 old versions
+2 4 பழைய பதிப்புகள்                 ...
+1 5 old versions
+2 5 பழைய பதிப்புகள்                 ...
+1 10 old versions
+2 10 பழைய பதிப்புகள்                 ...
+1 Infinite old versions
+2 முடிவற்ற பழைய பதிப்புகள்                 ...
+1 Hidden and system files too
+2 மறைக்கப்பட்ட மற்றும் கணினி கோப்புகள் கூட                  ...
+1 Make deletions unrecoverable (slow)
+2 நீக்குதல்களை மீட்க முடியாது (மெதுவாக)                    ...
+1 Sound advise at the end
+2 இறுதியில் ஒலி ஆலோசனை                   ...
+1 Sound effects
+2 ஒலி விளைவுகள்                 ...
+1 &Tools
+2 கருவிகள்                 ...
+1 Test all selected paths
+2 தேர்ந்தெடுக்கப்பட்ட எல்லா பாதைகளையும் சோதி                          ...
+1 Test paths before synchronize
+2 ஒத்திசைக்கும் முன் பாதைகளை சோதி                             ...
+1 Change Removable Drive Letters...
+2 நீக்க கூடிய வட்டு எழுத்துகளை மாற்று                               ...
+1 Allow multiple instances
+2 பல நிகழ்வுகளை இயக்கு                    ...
+1 Set realtime deferred sync log path...
+2 நிகழ்நேர ஒத்திவைக்கப்பட்ட ஒத்திசைவு பதிவு பாதையை அமை                     ...
+1 Find deferred sync file...
+2 ஒத்திவைக்கப்பட்ட ஒத்திசைவு கோப்பைக் கண்டறிக               ...
+1 Execute realtime deferred sync
+2 நிகழ்நேர ஒத்திவைக்கப்பட்ட ஒத்திசைவை இயக்கு                   ...
+1 Delete all Empty folders...
+2 அனைத்து வெற்று கோப்புறைகளையும் நீக்கு                 ...
+1 Use multiple log files
+2 பல பதிவு கோப்புகளை பயன்படுத்து                     ...
+1 Show log file
+2 பதிவுக் கோப்பு காட்டு                 ...
+1 Erase log file
+2 பதிவுக் கோப்பு அழிக்க              ...
+1 Are you sure you want to delete the log file?
+2 பதிவு கோப்பை நிச்சயமாக நீக்க வேண்டுமா?                ...
+1 Find ini file
+2 Ini கோப்பை கண்டுபிடி                ...
+1 Abstract of last sync
+2 முந்தைய ஒத்திசைவின் மேலோட்டம்                ...
+1 &Help
+2 உதவி    ...
+1 &Home Page Web
+2 முகப்பு பக்கம் வலை        ...
+1 Check for New Version
+2 புதிய பதிப்பு சரிபார்        ...
+1 Contact the programmer
+2 நிரலாளர் தொடர்பு           ...
+1 Contact the translator
+2 மொழிபெயர்ப்பாளரைத் தொடர்பு          ...
+1 Support with Donation...
+2 நன்கொடை வழங்கல்          ...
+1 &About DSynchronize
+2 டிஒத்திசை பற்றி       ...
+1 &Show
+2 காட்டு     ...
+1 &About
+2 பற்றி     ...
+1 &Close
+2 மூடு   ...
+1 B&rowse...
+2 உலாவு  ...
+1 &Add New...
+2 &புதியதைச் சேர்...
+1 Duplicate...
+2 நகல்...
+1 &Edit...	F2
+2 தொகு
+1 Explore Path...
+2 பாதையை ஆராயுங்கள் ...
+1 Test this Pat&h
+2 இந்த பாதை சோதிக்க
+1 Se&t Filter...
+2 வடிகட்டியை அமை...
+1 S&wap
+2 இடமாற்று
+1 Move Up
+2 மேலே நகர்த்து
+1 Move Down
+2 கீழே நகர்த்து
+1 &Select all
+2 &அனைத்தையும் தேர்ந்தெடு
+1 &Deselect all
+2 எல்லாவற்றையும் தேர்வுநீக்கு
+1 Empty Recycle Bin
+2 வெற்று மறுசுழற்சி பின்
+1 Re&move	Del
+2 அகற்று	டெல்
+1 &Properties
+2 பண்புகள்
+1 Move Down	PagDn
+2 கீழே நகர்த்து	PagDn
+1 RealTime | Transactional
+2 நிகழ்நேர | பரிவர்த்தனை
+1 "Right Click" to browse paths and set filters
+"Enter" to modify path
+"DEL" to delete item
+"PagUp" and "PagDn" to move item up or down
+"Right" and "Left" to switch sources-destinations
+2 பாதைகள் மற்றும் தொகுப்பு வடிகட்டிகளை சோதிக்க 1 '' வலது சொடுக்கு ''
+பாதையை மாற்ற '' Enter ''
+உருப்படியை நீக்க '' DEL''
+'PagUp' 'அல்லது' 'PagDn' 'உருப்படியை மேலே அல்லது கீழே நகர்த்துவதற்கு
+"Right" and "Left" to இடம்மாற்ற sources-destinations
+1 Stop after selected number of consecutive errors...
+2 தொடர் பிழைகள் எண்ணிக்கையை எட்டியதும் நிறுத்து                  ...
+1 Open Ini file...
+2 Ini கோப்பை திற ...
+1 Ini File (*.ini)
+2 Ini கோப்பு (* .ini)
+1 The Ini file actually don't exists, but this is his future path:
+2 Ini கோப்பு உண்மையில் இல்லை, ஆனால் இது அவரது எதிர்கால பாதை     :
+1 The Ini file actually don't exists.
+2  Ini கோப்பு உண்மையில் இல்லை.
+1 This Ini file is an old unsupported version.
+2 இந்த Ini கோப்பு ஒரு பழைய ஆதரிக்கப்படாத பதிப்பு.
+1 Are you sure do you want to revert all options to their factory default?
+2 நீங்கள் உண்மையிலேயே அனைத்து தொழிற்சாலைகளிலும் தங்கள் விருப்பப்படி இயல்புநிலைக்கு திரும்ப வேண்டுமா?
+1 Select the number of consecutive errors after which to stop the sync:
+2 ஒத்திசைவை நிறுத்த பிழை எண்ணிக்கை தேர்ந்தெடு                 :
+1 Source paths verify
+2 மூல பாதைகளை சரிபார்
+1 Source paths verify:
+2 மூல பாதைகளை சரிபார்:
+1 Destination paths verify:
+2 இலக்கு பாதைகள் சரிபார்:
+1 Source path verify:
+2 மூல பாதை சரிபார்:
+1 Destination path verify:
+2 இலக்கு பாதை சரிபார்:
+1 Source path error:
+2 மூல பாதை பிழை:
+1 Destination paths verify
+2 இலக்கு பாதைகள் சரிபார்க்கின்றன
+1 Destination path error:
+2 இலக்கு பாதை பிழை:
+1 Select RealTime deferred File...
+2 நிகழ்நேர ஒத்திவைக்கப்பட்ட கோப்பு தேர்வு ...
+1 Deferred sync
+2 ஒத்திவைக்கப்பட்ட ஒத்திசைவு
+1 Deferred sync changes file not exists.
+2 ஒத்திசைக்கப்பட்ட ஒத்திசைவு மாற்றங்கள் கோப்பு இல்லை.
+1 RealTime sync deferred executed: No file system changes to sync.
+2 நிகழ்நேர ஒத்திசைவு ஒத்திவைக்கப்பட்டது: ஒத்திசைவுக்கு கோப்பு முறைமை மாற்றங்கள் இல்லை.
+1 RealTime Deferred Sync Data Block Saved... FAIL
+2 நிகழ்நேர ஒத்திவைக்கப்பட்ட ஒத்திசைவு தரவுத் தொகுதி சேமிக்கப்பட்டது ... தோல்வி
+1 RealTime Deferred Sync Data Block Saved... OK
+2 RealTime ஒத்திவைக்கப்பட்ட ஒத்திசைவு தரவுத் தடுக்கப்பட்டது... சரி
+1 RealTime sync deferred active...
+2 நிகழ்நேர ஒத்திசைவு செயலில் உள்ளது...
+1 RealTime sync deferred execution error.
+2 நிகழ்நேர ஒத்திசைவு பிழை ஒத்திவைப்பு.
+1 RealTime sync deferred execution successfull.
+2 நிகழ்நேர ஒத்திசைவு ஒத்திவைப்பு வெற்றிகரமாக ஒத்திவைக்கப்பட்டது.
+1 Real-Time deferred sync with automatic activation.
+2 தானியங்கு செயல்படுத்தும் நிகழ்நேர ஒத்திவைக்கப்பட்ட ஒத்திசைவு.
+1 Real-Time deferred sync with manual activation.
+2 கையேடு செயல்படுத்தும் நிகழ்நேர ஒத்திவைக்கப்பட்ட ஒத்திசைவு.
+1 Select the root from which remove empty folders:
+2 வெற்று கோப்புறைகளை அகற்றுவதன் மூலத்தைத் தேர்ந்தெடு:
+1 Log file don't exists.
+2 பதிவு கோப்பு இல்லை.
+1 Log file has been deleted.
+2 பதிவுக் கோப்பு நீக்கப்பட்டது.
+1 All empty subfolders will be removed from this path:
+2 இந்த பாதையிலிருந்து அனைத்து வெற்று உட்பிரிவுகளும் அகற்றப்படும்:
+1 Do you want to continue?
+2 தொடர விரும்புகிறீர்களா?
+1 Empty folders removed
+2 வெற்று கோப்புறைகள் அகற்றப்பட்டன
+1 Empty folders not removed (errors)
+2 வெற்று கோப்புறைகள் அகற்றப்படவில்லை (பிழைகள்)
+1 A new version is available for Download, do you want go to download page?
+2 பதிவிறக்கம் செய்ய ஒரு புதிய பதிப்பு கிடைக்கப்பெறுகிறது, பக்கத்தைப் பதிவிறக்க வேண்டுமா?
+1 The current version is up to date
+2 தற்போதைய பதிப்பு தேதி வரை உள்ளது
+1 Unable to get version information, check Internet connection or Firevall/Proxy settings.
+2 பதிப்பு பதிப்பை பெற முடியவில்லை, இணைய இணைப்பு அல்லது ஃபயர்வால் / ப்ராக்ஸி அமைப்புகளை சரிபார்க்க முடியவில்லை.
+1 DSynchronize - Help
+2 டிஒத்திசை - உதவி       ...
+1 Help
+2 உதவி
+1 About
+2 பற்றி
+1 [HOT KEYS]
+F1 = Open this window.
+F2 / Enter = Modify Paths.
+Del = Delete Paths couple.
+PagUp / PagDn = Move item up or down.
+Right Click = Test Path, Set Filters, Browse Paths.
+Alt+F4 = Exit program.
+Alt+F5 = Exit program without save settings.
+Right / Left = Switch between Sources and Destinations.
+Up / Down = Select previous / next item.
+Further Down = Add new couple of paths (Source and Destination).
+
+[COMMAND LINE]
+/START = Start synch with last saved options.
+/RETARD = Start synch with last saved options after 60 seconds.
+/STARTJOB "JobName" = Start synch with selected Job options.
+/MINIMIZE = Starts minimized in the Tray Bar.
+/HIDDEN = Do not display icon in Tray Bar.
+/NOSECURITYCHECK  = Don't makes security check before sync.
+/NOMONITORCHECK = Do not check monitor resolution.
+/AUTOREALTIME = Starts minimized, do a standard sync and activate RealTime.
+/SOMEFILE.INI = Starts using selected INI file.
+2 [சூடான விசைகள்]
+F1 = இந்த சாளரத்தை திற
+F2 / உள்ளிடு = மாற்றங்களை மாற்றுக.
+Del = பாதைகள் இணை நீக்கு.
+PagUp / PagDn = உருப்படியை நகர்த்தவும் அல்லது கீழே நகர்த்து.
+வலது சொடுக்கு = சோதனை பாதை, அமை வடிகட்டிகள், பாதைகள் உலாவுக.
+Alt + F4 = வெளியேறு நிரல்.
+Alt + F5 = சேமிப்பக அமைப்புகளை இல்லாமல் நிரல் வெளியேறு.
+வலது / இடது = மூலங்கள் மற்றும் இலக்குகளுக்கு இடையில் மாறவும்.
+மேலே / கீழே = முந்தைய / அடுத்த உருப்படி தேர்ந்தெடு.
+மேலும் கீழே = புதிய இணை பாதைகள் (மூலம் மற்றும் இலக்கு) சேர்.
+
+[கட்டளை வரி]
+/START = கடைசி சேமித்த விருப்பங்களுடன் ஒத்திசைவைத் தொடங்கு.
+/STARTJOB "JobName" = தேர்ந்தெடுத்த பணி விருப்பங்களுடன் ஒத்திசைவைத் தொடங்கு).
+/MINIMIZE = தட்டு பட்டியில் சிறிது துவக்கப்படும்.
+/HIDDEN = தட்டு பட்டியில் ஐகானை காட்டாதே.
+/NOSECURITYCHECK = ஒத்திசைவுக்கு முன் பாதுகாப்பு சோதனை செய்யாதீர்கள்.
+/NOMONITORCHECK = திரைத்தெளிவை சரிபார்க்க வேண்டாம்.
+/AUTOREALTIME = குறைந்தபட்சம் துவங்கியது, ஒரு நிலையான ஒத்திசைவு செய்து நிகழ்நேரத்தை செயல்படுத்து.
+/SOMEFILE.INI = தேர்ந்தெடுத்த INI கோப்பைப் பயன்படுத்தி தொடங்குகிறது.
+1 Support with a Donation
+2 நன்கொடைகள் மூலம் ஆதரவு
+1 Cancel
+2 கைவிடு
+1 Thanks for your generosity!
+2 உங்கள் பெருந்தன்மைக்கு நன்றி!
+1 This software is and will always remain free. If you are satisfied with them and want to help me to improve or motivate the development of other quality programs, any amount of donation small or large will be welcome and gratefully appreciated.
+2இந்த மென்பொருள் மற்றும் எப்போதும் இலவசமாக இருக்கும். நீங்கள் அவர்களிடம் திருப்தி அடைந்து, மற்ற தரத் திட்டங்களின் வளர்ச்சியை மேம்படுத்த அல்லது ஊக்குவிக்க எனக்கு உதவுவதால், நன்கொடை சிறிய அல்லது பெரிய தொகையை வரவேற்று, நன்றியுடன் பாராட்ட வேண்டும்.
+1 DONATE
+2 நன்கொடை
+1 DSynchronize - About
+2 டிஒத்திசை -  பற்றி       ...
+1 e-mail:
+2 மின்னஞ்சல்:
+1 home page:
+2 முகப்பு:
+1 Make a Donation
+2 நன்கொடை அளி
+1 Version
+2 பதிப்பு 
+1 Load Job
+2 பணி ஏற்றம்
+1 Load settings...
+2 அமைப்புகள் பதிவேற்றம்       ...
+1 New Job
+2 புதிய பணி
+1 Delete Job
+2 பணி நீக்கு
+1 Instant Update
+2 மேம்படுத்து
+1 Show me again
+2 மீண்டும் காட்டு
+1 When you select a Job, loads his options immediately
+2 நீங்கள் ஒரு பணியைத் தேர்ந்தெடுக்கும்போது, உடனடியாக தனது விருப்பங்களை ஏற்றுகிறது
+1 Rename	F2
+2 மறுபெயரிடு	F2
+1 Move Up	PgUp
+2 மேலே நகர்த்து	மேல்பக்கம்
+1 Move Down	PgDn
+2 கீழே நகர்த்து	கீழ்பக்கம்
+1 Duplicate Job
+2 நகல் பணி
+1 Delete Job	Canc
+2 பணிநீக்குகளை	நீக்கு
+1 Are you sure to want delete this Job?
+2 இந்த பணிகளை நீக்க விரும்புகிறீர்களா?
+1 Move up and down selected Job
+2 தேர்ந்தெடுத்த பணிகளை மேலே மற்றும் கீழே நகர்த்தவும்          ...
+1 'F2' to rename Jobs
+'Del' to delete a job
+'Del+Shift' to delete a job without confirms
+'PagUp' to move Up an Item
+'PagDn' to move Down an Item
+2 பணிகள் மறுபெயரிட 'F2'
+ஒரு பணி நீக்க 'நீக்கு'
+உறுதிப்படுத்தாமல் ஒரு பணியை நீக்க 'Del + Shift'
+ஒரு பொருளை மேலே நகர்த்துவதற்கு 'PagUp'
+ஒரு பொருள் கீழே நகர்த்த 'PagDn'
+1 DSynchronize - Filter
+2 டிஒத்திசை - வடிகட்டி        ...
+1 File Selection
+2 File Selection
+1 Inclusion Filter:
+2 Inclusion Filter:
+1 To use multiple filters you must separate them with ";", e.g. *.exe;*.txt;settings.ini;*.da?
+2 பல வடிப்பான்களைப் பயன்படுத்த நீங்கள் அவற்றை ";" உடன் பிரிக்க வேண்டும், எ.கா. *. exe; *. txt; settings.ini; *. டா?
+1 Exclusion Filter:
+2 Exclusion Filter:
+1 Filter Options
+2 Filter Options
+1 Do not include subfolders on synchronization
+2 ஒத்திசைவில் துணைகோப்புறைகளை சேர்க்க வேண்டாம்
+1 Apply filters to folders
+2 கோப்புறைகளுக்கு வடிப்பான்களை இடு
+1 Apply filters to files
+2 கோப்புகளை வடிகட்டிகள் இடு
+1 Filter Timings
+2 Filter Timings
+1 Exclude files modified before:
+2 முன் திருத்தப்பட்ட கோப்புகளை நீக்கு  :
+1 Exclude files modified after:
+2 பின் மாற்றம் கோப்புகளை நீக்கு  :
+1 Exclude files modified within:
+2 உள்ளிட்ட திருத்தப்பட்ட கோப்புகளை நீக்கு  :
+1 Time-tolerance between two files
+2 இரண்டு கோப்புகளுக்கான ஏற்கக்கூடிய நேரவேறுபாடு  :
+1 Days
+2 நாட்கள்
+1 Time-tollerance between two files
+2 இரண்டு கோப்புகளை இடையே நேரம் தொல்லை
+1 Seconds
+2  விநாடிகள்
+1 Difference of GMT between source and destination
+2 மூல மற்றும் இலக்கு இடையே GMT வேறுபாடு
+1 Folder Selection
+2 Folder Selection
+1 SELECTED PATH NOT EXISTS...
+2 தேர்ந்தெடுத்த பாதை இல்லை...
+1 Do not sync added later folders (can slow down the sync)
+2 பின்னர் பிணைப்புகளை ஒத்திசைக்காதே (ஒத்திசைவைக் குறைக்கலாம்)
+1 Reset Defaults
+2 மீட்டமை
+1 This option is not designed for normal sync operations, you should use it only in particular situations,
+furthermore, selecting ''Verify Byte to Byte'' will slow down very much the sync.
+
+Are you sure to want enable this option?
+2 சாதாரண ஒத்திசைவு நடவடிக்கைகளுக்கு இந்த விருப்பத்தை வடிவமைக்கப்படவில்லை நீங்கள் அதை மட்டும் குறிப்பிட்ட சூழ்நிலைகளில், இதற்கு மேலும், தேர்வு பயன்படுத்த வேண்டும் "பைட் செய்ய பைட் சரிபார்" மிகவும் ஒத்திசைவு மெதுவாக்கும் உள்ளது.
+
+இந்த விருப்பத்தை நீங்கள் நிச்சயமாக இயக்க வேண்டுமா?
+1 Select file or program to open at the end of sync... 
+2 ஒத்திசைவு முடிவில் திறக்க கோப்பை அல்லது நிரலைத் தேர்ந்தெடு ..
+1 Reporting activity OK
+2 செயல்பாட்டு நடவடிக்கை சரி
+1 Reporting activity FAIL
+2 செயல்பாட்டு அறிக்கை தோல்வியுற்றது
+1  - Added
+2  - சேர்க்கப்பட்டது
+1  - Deleted
+2  - நீக்கப்பட்டது
+1  - Paused -
+2  - இடைநிறுத்தப்பட்டது
+1  - Realtime
+2  - நிகழ்நேர
+1  - Replaced
+2  - மாற்றப்பட்டது
+1 DSynchronize - Log by Email
+2 டிஒத்திசை - மின்னஞ்சல் மூலம் புகுபதிகை
+1 Log Email Settings
+2 மின்னஞ்சல் பதிவு அமைப்புகள்
+1 Send To:
+2 இவருக்கு அனுப்பு:
+1 Send To
+2 இவருக்கு அனுப்பு
+1 Email of destination, you can insert more email separated with semicolons
+2 இலக்கு மின்னஞ்சலில், அரைக்கால் கொண்ட பிரிக்கப்பட்ட மின்னஞ்சலை நீங்கள் நுழைக்கலாம்
+1 Email Sender:
+2 மின்னஞ்சல் அனுப்பியவர்:
+1 Email Sender (only if is different from "Send To")
+2  மின்னஞ்சல் அனுப்பியவர் ("அனுப்புவதற்கு" வேறுபட்டால் மட்டுமே)
+1 Sender Passwd:
+2 அனுப்புநர் கடவுச்சொல்:
+1 Email Sender Password
+2 மின்னஞ்சல் அனுப்பியவர் கடவுச்சொல்
+1 Show Passwd
+2 கடவுச்சொல்லை காட்டவும்
+1 SMTP Server:
+2  எஸ்.எம்.டி.பி சேவையகம்:
+1 SMTP Port:
+2 எஸ்.எம்.டி.பி துரைமுகம்:
+1 Use SSL encryption
+2 SSL குறியாக்கத்தைப் பயன்படுத்துக
+1 Send a screenshot in attachment
+2 இணைப்பில் ஒரு ஸ்கிரீன் ஷாட்டை அனுப்பவும்
+1 Send Test Email
+2 சோதனை மின்னஞ்சல் அனுப்பு
+1 DSynchronize Email Log Test
+2 டிஒத்திசை மின்னஞ்சல் பதிவு சோதனை
+1 Email sent from DSynchronize for testing purposes.
+2 டிஒத்திசை மின்னஞ்சல் பதிவு சோதனை அனுப்பப்பட்டது
+1 Sent from PC:
+2 PC இலிருந்து அனுப்பப்பட்டது:
+1 Email Test Successfull.
+2 மின்னஞ்சல் சோதனை வெற்றிகரமாக.
+1 Sending test Email... DONE
+2 சோதனை மின்னஞ்சலை அனுப்புகிறது ... முடிந்தது
+1 Sending test Email... FAIL
+2 சோதனை மின்னஞ்சல் அனுப்புகிறது ... தோல்வி
+1 DSynchronize Log Report
+2 டிஒத்திசை பதிவு அறிக்கை
+1 DSynchronize - Email
+2 டிஒத்திசை - மின்னஞ்சல்
+1 Email Sender: Email address is not valid
+2 மின்னஞ்சல் அனுப்பியவர்: மின்னஞ்சல் முகவரி தவறானது
+1 Send To: Email address is not valid
+2 அனுப்பு: மின்னஞ்சல் முகவரி செல்லுபடியாகாது
+1 DSynchronize - Recycle Bin
+2 டிஒத்திசை - மறுசுழற்சி பை
+1 Select Recycle Bin
+2 தேர்ந்தெடு மறுசுழற்சி பை
+1 Select All
+2 எல்லாம் தேர்வு
+1 Use Windows recycle bin
+2 சாளர மறுசுழற்சி பை பயன்படுத்து
+1 Use a custom folder as recycle bin...
+2 மறுசுழற்சி பை என ஒரு தனிபயன் கோப்புறையைப் பயன்படுத்து ...
+1 Selected path not exists, reverting to Windows Recycle Bin.
+2 தேர்ந்தெடுக்கப்பட்ட பாதை இல்லை, மறுசுழற்சி செய்ய Windows Recycle Bin.
+1 Select a folder...
+2 ஒரு கோப்புறையைத் தேர்ந்தெடு...
+1 DSynchronize - Realtime
+2 டிஒத்திசை - நிகழ்நேரம்        ...
+1 REALTIME
+2 நிகழ்நேர
+1 Real-time syncronization
+2 நிகழ்-நேர ஒத்திசைவு
+1 Real-time sync
+2  நிகழ்-நேர ஒத்திசைவு
+1 Real-Time sync.
+2 நிகழ்-நேர ஒத்திசைவு.
+1 Deferred real-time sync (manual)
+2 ஒத்திவைக்கப்பட்ட நிகழ் நேர ஒத்திசைவு (கையேடு)
+1 Deferred real-time sync (scheduled)
+2 ஒத்திவைக்கப்பட்ட நிகழ் நேர ஒத்திசைவு (திட்டமிடப்பட்டுள்ளது)
+1 Execute sync every:
+2 ஒவ்வொரு ஒத்திசைவை இயக்கு:
+1 Clear previous deferred list of changes
+2 மாற்றங்கள் முந்தைய ஒத்திவைக்கப்பட்ட பட்டியலை அழி
+1 void
+2 வெறுமை
+1 Defer synchronization if changes occur within:
+2 மாற்றங்கள் ஏற்படும் என்றால் ஒத்திசைவை ஒத்திவைக்க:
+1 minutes
+2 நிமிடங்கள்
+1 Perform a standard sync before starting real-time sync
+2 நிகழ் நேர ஒத்திசைவிற்கு முன் ஒரு நிலையான ஒத்திசைவைச் செய் 
+1 Standard sync before starting Real-Time
+2 நிகழ் நேர ஒத்திசைவைத் தொடங்குவதற்கு முன் ஒத்திசைவைச் செய்யவும் 
+1 Do you want that a Standard sync take place first before enabling the Real-Time sync?
+2 நிகழ் நேர ஒத்திசைவை செயல்படுத்துவதற்கு முன்பு ஒரு நிலையான ஒத்திசைவு நடக்கும் என்று நீங்கள் விரும்புகிறீர்களா?
+1 Prevent bidirectional loop (if path is on a server version of Windows) 
+2 இருதிசை சுழற்சியை தடு (விண்டோஸ் சர்வர் பதிப்பில் பாதை இருந்தால்)
+1 Prevent the Windows Server loop problem if the bidirectional option is enabled
+2 இருதிசை விருப்பம் இயக்கப்பட்டால் விண்டோஸ் சர்வர் சுழற்சி சிக்கலைத் தடுக்கிறது
+1 In some Windows Server versions, bidirectional sync can loop, this option fixes the problem
+2 சில விண்டோஸ் சர்வர் பதிப்புகளில், இருதிசை ஒத்திசைவு சுழற்சி முடியும், இந்த விருப்பம் சிக்கலை சரிசெய்கிறது
+1 Monitoring
+2 கண்காணிப்பு
+1 Monitor Subfolders
+2 துணை கோப்புறைகளை கண்காணிக்கலாம்
+1 Monitor Change Attributes
+2 பண்புக்கூறுகள் மாற்று கண்காணி
+1 Monitor Change ACL
+2 ACLஐ மாற்றவும் கண்காணி
+1 Error, Source and Destination is same: 
+2 பிழை, மூல மற்றும் இலக்கு ஒரே மாதிரியானவை:
+1 Error: destination path not exists
+2 பிழை: இலக்கு பாதையில் இல்லை
+1 Error: destination path not exists, retry?
+2 பிழை: இலக்கு பாதையில் இல்லை, மீண்டும் முயற்சி?
+1 Error: source path not exists
+2 பிழை: மூல பாதை இல்லை
+1 Error: source path not exists, retry?
+2  பிழை: மூல பாதை இல்லை, மீண்டும் முயற்சி?
+1 DSynchronize - Transactional
+2 டிஒத்திசை  - பரிவர்த்தனை
+1 TRANSACTIONAL
+2 பரிவர்த்தனை
+1 Manual mode
+2 கையேடு முறை
+1 Start Time:
+2 தொடக்க நேரம்:
+1 End Time:
+2 முடிவு நேரம்:
+1 Yesterday
+2 நேற்று
+1 Now
+2 இப்போது
+1 Automatic mode
+2 தானியங்கு முறை
+1 Sync every:
+2 ஒத்திசை ஒவ்வொரு:
+1 Start sync from:
+2 ஒத்திசைவைத் தொடங்கு:
+1 hours ago
+2 மணிநேரம் முன்பு
+1 Transactional Sync does not work very well with short timings, because the cache is not downloaded to disk in time.
+2 பரிமாற்ற ஒத்திசைவு குறுகிய கால இடைவெளியில் மிக நன்றாக செயல்படாது, ஏனென்றால் தற்காலிக சேமிப்பில் கேச் பதிவிறக்கம் செய்யப்படவில்லை.
+1 You should use at least 10 minutes.
+2 நீங்கள் குறைந்தது 10 நிமிடங்கள் பயன்படுத்த வேண்டும்.
+1 Use advanced transactional algorythm
+2 மேம்பட்ட பரிவர்த்தனை வழிமுறைகளைப் பயன்படுத்தவும்
+1 Advanced Transactional algorythm
+2 மேம்பட்ட வர்த்தக வழிமுறை
+1 They are two algorythms that you can use, at this time both are experimental
+2  நீங்கள் பயன்படுத்தக்கூடிய இரண்டு நெறிமுறைகள் உள்ளன. தற்போது, ​​இருவரும் பரிசோதனையாக உள்ளனர்
+1 Transactional Sync: not found anything recorded on Journal of selected Paths.
+2 பரிவர்த்தனை ஒத்திசைவு: தேர்ந்தெடுக்கப்பட்ட பாதைகள் இதழில் பதிவு எதுவும் இல்லை.
+1 Transactional Sync requires that source path is on Local Drive:
+2 பரிவர்த்தனை ஒத்திசைவு ஆதார பாதை உள்ளூர் இயக்ககத்தில் உள்ளது:
+1 Transactional Sync Bidirectional requires that even destination path is on Local Drive:
+2  பரிவர்த்தனை இருதிசை ஒத்திசைவு இலக்கு பாதை கூட உள்ளூர் இயக்ககத்தில் உள்ளது:
+1 Are you sure to want delete this sync path?
+2 இந்த ஒத்திசைவு பாதையை நீக்க விரும்புகிறீர்களா?
+1 Access rights error in destination path (you can try to select 'Ignore path errors')
+2 இலக்கு பாதையில் அணுகல் உரிமைகள் பிழை (நீங்கள் 'பாதை பிழைகள் புறக்கணி' என்பதைத் தேர்ந்தெடுக்க முயற்சி செய்யலாம்)
+1 Source path is invalid:
+2 மூல பாதை தவறானது:
+1 Destination path is invalid:
+2 இலக்கு பாதை தவறானது:
+1 Source path file system not supports Journaling.
+2 மூல பாதை கோப்பு முறைமை ஆதரிக்கவில்லை.
+1 Source path file system supports Journaling but it's not enabled, do you want to enable Journaling?
+2 ஆதார பாதை கோப்பு அமைப்பு ஜர்னலிங் ஆதரிக்கிறது ஆனால் அது செயல்படுத்தப்படவில்லை, நீங்கள் ஜர்னலிங்கை இயக்க வேண்டுமா?
+1 Destination path file system not supports Journaling.
+2 இலக்கு பாதை கோப்பு முறைமை ஆதரிக்கவில்லை.
+1 Destination path file system supports Journaling but it's not enabled, do you want to enable Journaling?
+2 இலக்கு பாங்கு கோப்பு முறை ஜர்னலிங் ஆதரிக்கிறது ஆனால் அது செயல்படுத்தப்படவில்லை, நீங்கள் ஜர்னலிங் ஐ இயக்க விரும்புகிறீர்களா?
+1 DSynchronize - Scheduler
+2 டிஒத்திசை - திட்டமிடல்            ...
+1 Main Selection
+2 Main Selection
+1 RealTime Sync Enabled
+2 நிகழ்நேர ஒத்திசைவு இயக்கப்பட்டது
+1 Timer Sync Enabled
+2 நேர ஒத்திசைவு இயக்கப்பட்டது
+1 Do a first sync immediatly (10 secs after start).
+2 உடனடியாக ஒரு முதல் ஒத்திசைவு செய்யுங்கள் (10 விநாடிகள் கழித்து).
+1 LocalSystem
+2 உள்ளகஅமைப்பு
+1 Day Selection
+2 நாள் தேர்வு
+1 Start as Service
+2 Start as Service
+1 Install Service
+2 சேவையை நிறுவு
+1 Uninstall Service
+2 சேவை நீக்கு
+1 Start Service
+2 சேவை தொடங்கு
+1 Stop Service
+2 சேவை நிறுத்து
+1 Done
+2 முடிந்தது
+1 Account:
+2 கணக்கு:
+1 Password:
+2 கடவுச்சொல்:
+1 System Account
+2 கணினி கணக்கு
+1 Days selection
+2 Days selection
+1 Days choice
+2 நாட்கள் விருப்பம்
+1 Synchronize every day
+2 ஒவ்வொரு நாளும் ஒத்திசை
+1 Specify the month's days on which to synchronize
+2 ஒத்திசைக்க வேண்டிய மாதத்தின் நாட்களைக் குறிப்பிடவும்
+1 Specify the week's days on which to synchronize
+2 ஒத்திசைக்க வேண்டிய வாரத்தின் நாட்களைக் குறிப்பிடவும்
+1 Sunday
+2 ஞாயிறு
+1 Monday
+2 திங்கள்
+1 Tuesday
+2 செவ்வாய்
+1 Wednesday
+2 அறிவன்
+1 Thursday
+2 வியாழன்
+1 Friday
+2 வெள்ளி
+1 Saturday
+2 காரி
+1 Synchronize every
+2 ஒத்திசை ஒவ்வொரு
+1 Synchronize at
+2 ஒத்திசை நேரம்
+1 Hours
+2 மணி
+1 Minutes
+2 நிமிடங்கள்
+1 RealTime sync active...
+2 நிகழ்நேர ஒத்திசைவு செயலில்...
+1 RealTime sync active, Timer sync active...
+2 நிகழ்நேர ஒத்திசைவு செயலில், டைமர் ஒத்திசைவு செயலில் ...
+1 next sync at:
+2 அடுத்த ஒத்திசைவு:
+1 Timer sync active...next sync at:
+2 நேர ஒத்திசைவு செயலில் உள்ளது ... அடுத்த ஒத்திசைவு இதில் உள்ளது:
+1 Timer sync active...
+2 நேர ஒத்திசைவு செயலில் உள்ளது...
+1 min to next sync
+2 நிமிடம் அடுத்த ஒத்திசைவுக்கு
+1 hour to next sync
+2 மணிநேரம் அடுத்த ஒத்திசைவுக்கு
+1 Sync progress
+2 ஒத்திசைவு முன்னேற்றம்
+1 Sync complete.
+2 ஒத்திசைவு முடிந்தது.
+1 Sync complete
+2 ஒத்திசைவு முடிந்தது
+1 Confirm Delete:
+2 நீக்குதல் உறுதிப்படுத்துக:
+1 Confirm Add:
+2 சேர் என்பதை உறுதிப்படுத்துக:
+1 Confirm Replace:
+2 இடமாற்று உறுதிப்படுத்துக:
+1 Elapsed:
+2 கழிந்தது:
+1 Add/Err:
+2 சேர்/பிழைகள்:
+1 Repl/Err:
+2 இடமாற்றம்/பிழைகள்:
+1 Del/Err:
+2 நீக்கு/பிழைகள்:
+1 Erasing files in <Destination>.
+2 <இலக்கு> இல் கோப்புகளை அழித்தல்..
+1 Adding/replacing files in <Destination>.
+2 <அடைவு> இல் கோப்புகளை சேர்தல் / மாற்றுதல்.
+1 Synch Stopped
+2 ஒத்திசைவு நிறுத்தப்பட்டது
+1 Synchronization (as service) started at  
+2 ஒத்திசைவு (சேவையாக) தொடங்கியது
+1 Synchronization OK: 
+2 ஒத்திசைவு சரி:
+1 Ok 
+2 சரி
+1 Synchronization interrupted.
+2 ஒத்திசைவு குறுக்கிடப்பட்டது.
+1 Synchronization paused.
+2 ஒத்திசைவு இடைநிறுத்தப்பட்டது.
+1 Synchronization resumed.
+2 ஒத்திசைவு மீண்டும் தொடங்கியது.
+1 Synchronization started at  
+2 ஒத்திசைத்தல் தொடங்கியது
+1 Closing in 5 sec...
+2 5 வினாடிகளில் நிறைவு...
+1 Online
+2 ஆன்லைன்
+1 If they are too many items, reset list
+2 பல பொருட்கள் இருந்தால், பட்டியலை மீட்டமை
+1 Auto start synchronization at drive plug-in is Running...
+2 இயக்கி செருகுநிரலில் தானியங்கு ஒத்திசைவு இயங்குகிறது...
+1 Bidirectional synchronization in progress...
+2  இருதிசை ஒத்திசைவு முன்னேற்றத்தில்...
+1 Closing connection...
+2 இணைப்பை மூடுகிறது...
+1 Connected
+2 இணைக்கப்பட்டது
+1 Connected state moved between secure and nonsecure site.
+2 இணைக்கப்பட்ட நிலை பாதுகாப்பான மற்றும் பாதுகாப்பற்ற இடங்களுக்கிடையே நகர்த்தப்பட்டது.
+1 Connected to server...
+2 சேவையகத்துடன் இணைக்கப்பட்டது ...
+1 Connecting
+2 இணைத்தல்
+1 Connecting to server...
+2 சேவையகத்துடன் இணைக்கிறது...
+1 Connecting: 
+2 இணைத்தல்:
+1 Connection closed.
+2 இணைப்பு மூடப்பட்டது.
+1 Connection refused.
+2 இணைப்பு மறுக்கப்பட்டது.
+1 Connection reset by peer.
+2 இணைப்பு மூலம் மறு இணைப்பு
+1 Connection timed out.
+2 இணைப்பு நேரம் முடிந்தது.
+1 Connection: Keep-Alive
+2 இணைப்பு: உயிருடன்-வைத்து
+1 Do you want to overwrite this file?
+2 இந்த கோப்பை மேலெழுத வேண்டுமா?
+1 Eject/Err:
+2 வெளியேறு/பிழை:
+1 Ejected Drives: 
+2 வெளியேற்றப்பட்ட இயக்ககங்கள்:
+1 Active Job
+2 செயலில் பணி
+1 Synchronization OK
+2 ஒத்திசைத்தல் சரி
+1 End Synch at
+2 ஒத்திசைவை முடிக்க
+1 End Sync at
+2 ஒத்திசைவை முடிக்க
+1 Acquired information completed, elapsed
+2  வாங்கிய தகவல் நிறைவடைந்தது, முடிந்தது
+1 Acquired information completed
+2 வாங்கிய தகவல் முடிந்தது
+1 elapsed
+2 கடந்துவிட்ட
+1 Path not found
+2 பாதை கண்டுபிடிக்கப்படவில்லை
+1 [GENERAL]
+2 [பொது]
+1 [DETAILS]
+2 [விவரங்கள்]
+1 ADDING
+2 சேர்த்தல்
+1 DELETING
+2 நீக்குதல்
+1 REPLACING
+2 மாற்றுதல்
+1 Email Log Sent... OK
+2 மின்னஞ்சல் பதிவு அனுப்பப்பட்டது ... சரி
+1 Email Log Sent... FAIL
+2 மின்னஞ்சல் பதிவு அனுப்பப்பட்டது ... தோல்வி
+1 File or Folder Path error synchronizing
+2 கோப்பு அல்லது அடைவு பாதை பிழை ஒத்திசைத்தல்
+1 DSynchronize - Report Status
+2 டிஒத்திசை - நிலை அறிக்கை
+1 REPORT STATUS TO CONTROLLER
+2 தொலை கட்டுப்படுத்திக்கு நிலை அறிக்கை
+1 Remote address
+2 தொலை முகவரி
+1 Set local IP
+2 உள்ளக ஐபியை அமை
+1 Port
+2 துறைமுகம்
+1 Test Connection
+2 இணைப்பு சரிபார்
+1 Test Connection...
+2 இணைப்பு சரிபார்...
+1 Test Connection... FAIL
+2 சோதனை இணைப்பு ... தோல்வி
+1 Test Connection... SUCCESS
+2 சோதனை இணைப்பு ... வெற்றி
+1 Ping... DONE
+2 பிங் ... முடிந்தது
+1 Ping... FAIL
+2 பிங் ... தோல்வி
+1 Wrong Parameters, check IP or port number
+2 தவறான அளவுருக்கள், ஐபி அல்லது போர்ட் எண்ணை சரிபார்
+1 'Start Sync' request received from Remote Controller
+2 தொலை கட்டுப்படுத்தியில் இருந்து 'ஒத்திசைவு தொடங்கு' கோரிக்கை பெறப்பட்டது
+1 'Stop Sync' request received from Remote Controller
+2 தொலை கட்டுப்படுத்தியில் இருந்து 'ஒத்திசைவு நிறுத்து' கோரிக்கை பெறப்பட்டது
+1 'Restart & Sync' request received from Remote Controller
+2 தொலை கட்டுப்படுத்தியில் இருந்து 'மறுதொடக்கம் & ஒத்திசைவு' கோரிக்கை பெறப்பட்டது
+1 'Restart' request received from Remote Controller
+2 தொலை கட்டுப்படுத்தியில் இருந்து 'மறுதொடக்கம்' கோரிக்கை பெறப்பட்டது
+1 'Close' request received from Remote Controller
+2 தொலை கட்டுப்படுத்தியில் இருந்து 'மூடு' கோரிக்கை பெறப்பட்டது
+1 DSynchronize - Shutdown
+2 டிஒத்திசை - நிறுத்தம்
+1 Abort
+2 கைவிடப்பட்டது
+1 System Shutdown in nn sec
+2 nn நொடிகளில் கணினி பணிநிறுத்தம்
+1 OFF
+2 நிறுத்தவும்
+1 Instant Power Off
+2 உடனடி மின்சக்தி நிறுத்தவும்
+1 System Shutdown in 
+2 கணினி பணிநிறுத்தபடும்
+1 sec
+2 நொடி
+1 DSynchronize Help
+2 டிஒத்திசை உதவி
+1 DSynchronize.EXE [/SWITCH]
+
+SWITCHES: Start, Minimized, Hidden, AutoRealTime, Custom.INI
+2 DSynchronize.EXE [/மாற்று]
+
+மாற்றங்கள்: Start, Minimized, Hidden, AutoRealTime, Custom.INI
